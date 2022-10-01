@@ -22,6 +22,7 @@
 - [Watts](https://github.com/Watts8bits)
 - [Anurag Nayak](https://github.com/Anu-Ra-g)
 - [Tejas Srivastava](https://github.com/MrTejas)
+- [Dhruv](https://github.com/Thunder-Emperor)
 - [Anurag Kumbhare](https://github.com/ANURAG-2043)
 - [Arunava Ghosh](https://github.com/its-ag)
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
